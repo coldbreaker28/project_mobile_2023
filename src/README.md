@@ -1,4 +1,5 @@
 # PROJECT-MOBILE-2023 - News App
+
  - Name : Anas Aminulloh T. H.
  - NIM : 2131750004 
 
@@ -20,34 +21,41 @@
 6. terdapat bilah terakhir, yakni History. bilah navigasi History berisi rekam jejak pengguna setelah melihat atau mengklik berita terkait pada aplikasi.
 -----------------------------------------------------------------------------------------
 # Planing :
+menampilkan Home dengan berita berkategori bisnis. Dan juga terdapat 3 bilah navigasi bawah yang berisi home atau beranda , lalu History sebagai rekam jejak pengguna setelah membuka berita, dan Person yang berisi data pribadi milik pengguna.
   ## Tampilan Login.
 ![1](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/1.%20sign%20in.jpeg)
 ![2](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/2.%20select%20account.jpeg)
 - Pilihlah Akun Yang kamu gunakan.
  ----------------
 # Tampilan Halaman Home.
+# Business : 
+menampilkan Home dengan berita berkategori bisnis. 
 
-## Business
-  ![3](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/3.%20Home%20-%20Bisnis.jpeg)
-  ## Health
-   ![4](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/4.%20Home%20-%20Health.jpeg)
-   ## Science
-   ![5](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/5.%20Home%20-%20Sains.jpeg)
-## Sports
-   ![6](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/6.%20Home%20-%20Sports.jpeg)
-  ## Tech
-   ![7](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/7.%20Home%20-%20Teknologi.jpeg)
+![3](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/3.%20Home%20-%20Bisnis.jpeg).
+# Health. : 
+menampilkan Home dengan berita berkategori kesehatan.
+
+![4](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/4.%20Home%20-%20Health.jpeg).
+# Science. :
+menampilkan Home dengan berita berkategori pendidikan.
+
+![5](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/5.%20Home%20-%20Sains.jpeg).
+# Sports. :
+menampilkan Home dengan berita berkategori olahraga.
+
+![6](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/6.%20Home%20-%20Sports.jpeg).
+# Tech. :
+menampilkan Home dengan berita berkategori teknologi.
+
+![7](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/7.%20Home%20-%20Teknologi.jpeg).
 --------------------------
 # Tampilan Halaman Person.
-![8](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/8.%20Person.jpeg)
+Menampilkan Data diri pengguna.
+
+![8](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/8.%20Person.jpeg).
 ---------------------------
 # Tampilan Halaman History.
+Menampilkan history atau rekam jejak pengguna setelah melihat berita terkait pada aplikasi. 
+
 ![9](https://github.com/coldbreaker28/project_mobile_2023/blob/master/docs/images/9.%20History.jpeg)
 -----------------------------------------------------------------------------------------
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
